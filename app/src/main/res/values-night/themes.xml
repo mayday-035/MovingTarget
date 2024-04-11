@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MovingTarget" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Gunmetal_Gray</item>
+        <item name="colorPrimaryVariant">@color/Gunmetal_Gray</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Smoke</item>
+        <item name="colorSecondaryVariant">@color/Light_Gray</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/Smoke</item>
+        <!--Background color-->
+        <item name="android:windowBackground">@color/bg_gray</item>
+        <!-- Text color-->
+        <item name="android:textColor">@color/Smoke</item>
+        <item name="tint">@color/black</item>
+        <item name="android:popupBackground">@color/Gunmetal_Gray</item>
+        <item name="android:popupCharacters">@color/black</item>
+        <!-- Customize your theme here. -->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovingTarget</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="awake">Enable Stay Awake</string>
+    <string name="clear">Clear Card</string>
+    <string name="dark">Enable Dark Mode</string>
+    <string name="power">Power Save</string>
+    <string name="start">Start</string>
+    <string name="timer">Enable Timer Display</string>
+    <string name="tone">Select Tone Preference(1)</string>
+    <string name="toneT">Select 2nd Tone Preference(0)</string>
+    <string name="toneC">Select Tone Count</string>
+    <string name="toneP">Select Tone Pattern</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home"
+    app:startDestination="@id/m1Fragment">
+
+    <fragment
+        android:id="@+id/m1Fragment"
+        android:name="com.demo.movingtarget.ui.M1Fragment"
+        android:label="fragment_m1"
+        tools:layout="@layout/fragment_m1" />
+    <fragment
+        android:id="@+id/m2Fragment"
+        android:name="com.demo.movingtarget.ui.M1Fragment"
+        android:label="fragment_m2"
+        tools:layout="@layout/fragment_m1" />
+    <fragment
+        android:id="@+id/m3Fragment"
+        android:name="com.demo.movingtarget.ui.M1Fragment"
+        android:label="fragment_m3"
+        tools:layout="@layout/fragment_m1" />
+    <fragment
+        android:id="@+id/m4Fragment"
+        android:name="com.demo.movingtarget.ui.M1Fragment"
+        android:label="fragment_m4"
+        tools:layout="@layout/fragment_m1" />
+    <fragment
+        android:id="@+id/quickFragment"
+        android:name="com.demo.movingtarget.ui.QuickFragment"
+        android:label="fragment_quick"
+        tools:layout="@layout/fragment_quick" />
+  <!--  <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.demo.movingtarget.ui.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />-->
+</navigation>

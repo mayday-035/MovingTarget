@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/navigation_m3"
+app:startDestination="@id/m3Fragment">
+
+<fragment
+    android:id="@+id/m3Fragment"
+    android:name="com.demo.movingtarget.ui.M3Fragment"
+    android:label="fragment_m3"
+    tools:layout="@layout/fragment_m3" />
+
+</navigation>
